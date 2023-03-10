@@ -19,8 +19,8 @@ namespace APEC.ProyectoFinal.API.Entities
 
         public bool Estado { get; set; }
 
-        public virtual SistemaAuxiliares SistemaAuxiliares { get; set; }
+        public SistemaAuxiliares SistemaAuxiliares { get; set; }
 
-        public virtual CuentaContable CuentaContable { get; set; }
+        public CuentaContable CuentaContable { get; set; }
     }
 }

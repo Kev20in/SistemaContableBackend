@@ -20,7 +20,7 @@ services.AddScoped<ISuperService, SuperService>();
 
 services.AddDbContext<DatabaseContext>(opt =>
 {
-    opt.UseSqlServer("Data Source=localhost;Initial Catalog=proecto;Integrated Security=True");
+    opt.UseSqlServer("Data Source=localhost;Initial Catalog=proecto;Integrated Security=True;TrustServerCertificate=True");
 });
 
 services.AddCors(op => op.AddPolicy("AllowOriginPolicy", builder =>
