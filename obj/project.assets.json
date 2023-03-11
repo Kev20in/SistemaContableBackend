@@ -3936,19 +3936,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\KeuriCastillo\\.nuget\\packages\\": {}
+    "C:\\Users\\KevinAgramonteCruz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KeuriCastillo\\source\\repos\\APEC.ProyectoFinal.API\\APEC.ProyectoFinal.API.csproj",
+      "projectUniqueName": "C:\\Users\\KevinAgramonteCruz\\Source\\Repos\\SistemaContableBackend\\APEC.ProyectoFinal.API.csproj",
       "projectName": "APEC.ProyectoFinal.API",
-      "projectPath": "C:\\Users\\KeuriCastillo\\source\\repos\\APEC.ProyectoFinal.API\\APEC.ProyectoFinal.API.csproj",
-      "packagesPath": "C:\\Users\\KeuriCastillo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KeuriCastillo\\source\\repos\\APEC.ProyectoFinal.API\\obj\\",
+      "projectPath": "C:\\Users\\KevinAgramonteCruz\\Source\\Repos\\SistemaContableBackend\\APEC.ProyectoFinal.API.csproj",
+      "packagesPath": "C:\\Users\\KevinAgramonteCruz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\KevinAgramonteCruz\\Source\\Repos\\SistemaContableBackend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\KeuriCastillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KevinAgramonteCruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
